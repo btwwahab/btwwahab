@@ -55,13 +55,6 @@ I build full-stack platforms with **Laravel, React.js and Vue.js**, and producti
 | [Hamza Enterprises Export Platform](https://github.com/btwwahab/hamza-enterprises-export-platform) | Business platform built for an export enterprise |
 | [Wahab Portfolio](https://github.com/btwwahab/wahab-portfolio) | Personal portfolio site — [live](https://dev-wahab.vercel.app/) |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btwwahab&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btwwahab" alt="GitHub Streak" height="165"/>
-</p>
-
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/wahab-full-stack/) · [Portfolio](https://dev-wahab.vercel.app/) · [Email](mailto:btwwahab@gmail.com)
