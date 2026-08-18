@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Abdul%20Wahab&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20LLM%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Abdul%20Wahab&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
